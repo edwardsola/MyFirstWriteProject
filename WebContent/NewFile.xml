@@ -1,0 +1,23 @@
+<xml>
+	<body></body>
+	<limit_pay></limit_pay>
+	<detail></detail>
+	<spbill_create_ip></spbill_create_ip>
+	<sign_type></sign_type>
+	<notify_url></notify_url>
+	<appid>5667</appid>
+	<fee_type></fee_type>
+	<time_start></time_start>
+	<nonce_str></nonce_str>
+	<out_trade_no></out_trade_no>
+	<device_info></device_info>
+	<trade_type></trade_type>
+	<time_expire></time_expire>
+	<sign></sign>
+	<mch_id></mch_id>
+	<goods_tag></goods_tag>
+	<total_fee></total_fee>
+	<attach></attach>
+	<pay></pay>
+	<openid></openid>
+</xml>
